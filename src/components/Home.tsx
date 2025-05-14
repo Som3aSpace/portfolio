@@ -80,17 +80,17 @@ export const Home = () => {
                             <SocialIcon
                                 icon = {<GitHubIcon/>}
                                 label={'Steal my Code'}
-                                href={'link to github'}
+                                href={'https://github.com/Som3aSpace'}
                             />
                             <SocialIcon
                                 icon = {<LinkedInIcon/>}
                                 label={'connect with me'}
-                                href={'link to github'}
+                                href={'https://www.linkedin.com/in/mois97/'}
                             />
                             <SocialIcon
                                 icon = {<ArticleIcon/>}
                                 label={'Resume'}
-                                href={'public/Resume.pdf'}
+                                href={'/Resume.pdf'}
                             />
                         </Grid>
                     </Grid>
